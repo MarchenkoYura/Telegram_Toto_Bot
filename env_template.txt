@@ -1,0 +1,13 @@
+# Скопируйте этот файл как .env и заполните своими данными
+
+# ВАЖНО: Создайте файл .env (без расширения .txt!)
+
+# Получите токен от @BotFather в Telegram
+BOT_TOKEN=your_bot_token_here
+
+# ID администратора бота (ваш Telegram ID)
+# Получить можно у @userinfobot
+ADMIN_ID=your_telegram_id_here
+
+# Папка для хранения данных (необязательно, по умолчанию: data)
+DATA_DIR=data
